@@ -437,6 +437,7 @@
       muteDiv.style.display = 'none';
       fullscreenDiv.style.display = 'none';
       controlsDiv.style.height = '14px';
+      sliderDiv.style.display = 'none';
     };
 
     /**
